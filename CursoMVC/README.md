@@ -1,0 +1,1 @@
+Primeiro projeto MVC com Entity Framework feito de acordo com o curso de Desenvolvimento de aplicações com .NET da Digital Innovation One.
